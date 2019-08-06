@@ -28,3 +28,8 @@ Press B after placing the pudding.
 Evaluation value is distributed via UART.
 
 Separately, M5Stack that supports UART is required.
+
+
+## Reference information
+
+https://gist.github.com/ksasao/ad8fb722d45a2efa3745f34c1df28bdf
