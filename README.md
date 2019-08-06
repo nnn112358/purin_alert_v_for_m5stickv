@@ -1,13 +1,17 @@
 # purin_alert_vision
 
+## abst
 This is the source code for the demo performed at the 趣味Tech祭 (2019/8/3) ！
 
 Monitor pudding with M5StickV.
 
 https://twitter.com/anoken2017/status/1158851988496375808?s=20
 
+## Preparation
 
-How to use
+https://bbs.sipeed.com/t/topic/682
+
+## How to use
 
 Press B after placing the pudding.
 
