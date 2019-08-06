@@ -1,3 +1,1 @@
 # purin_alert_vision
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プリン・ア・ラートV、カメラでプリンを見守ってくれました。<a href="https://twitter.com/hashtag/M5StickV?src=hash&amp;ref_src=twsrc%5Etfw">#M5StickV</a> <a href="https://twitter.com/hashtag/%E8%B6%A3%E5%91%B3TECH%E7%A5%AD?src=hash&amp;ref_src=twsrc%5Etfw">#趣味TECH祭</a> <a href="https://t.co/7EQqHqGlDf">pic.twitter.com/7EQqHqGlDf</a></p>&mdash; aNo研 (@anoken2017) <a href="https://twitter.com/anoken2017/status/1158851988496375808?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
