@@ -12,13 +12,10 @@ https://twitter.com/anoken2017/status/1158851988496375808?s=20
 MainxPy Firmware is maixpy_v0.4.0_30_g0fc8098_m5stickv.bin.
 http://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_v0.4.0_30_g0fc8098/
 
-mbnet751.kmodel is download from below. 
-
-Download file is maixpy_mbnet.zip
+mbnet751.kmodel is download from below. Download file is maixpy_mbnet.zipUnzip mbnet75.kfpkg to mbnet751.kmodel.
 
 https://bbs.sipeed.com/t/topic/682
 
-Unzip mbnet75.kfpkg to mbnet751.kmodel.
 
 
 ## How to use
